@@ -1,4 +1,4 @@
-# LittleLemon
+# LittleLemon API
 Meta's Backend Development API Project
 
 For this project, I've developed several API endpoints to manage the LittleLemons restaurant. 
